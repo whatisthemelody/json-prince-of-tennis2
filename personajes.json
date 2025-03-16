@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {
+      "name": "Ryoma Echizen",
+      "team": "Seigaku",
+      "age": 12,
+      "famous_technique": "Twist Serve",
+      "height_cm": 151
+    },
+    {
+      "name": "Tezuka Kunimitsu",
+      "team": "Seigaku",
+      "age": 15,
+      "famous_technique": "Tezuka Zone",
+      "height_cm": 179
+    },
+    {
+      "name": "Fuji Shusuke",
+      "team": "Seigaku",
+      "age": 15,
+      "famous_technique": "Higuma Otoshi",
+      "height_cm": 167
+    },
+    {
+      "name": "Atobe Keigo",
+      "team": "Hyotei Academy",
+      "age": 15,
+      "famous_technique": "Rondo Towards Destruction",
+      "height_cm": 175
+    },
+    {
+      "name": "Sanada Genichiro",
+      "team": "Rikkai Dai",
+      "age": 15,
+      "famous_technique": "FuuRinKaZan",
+      "height_cm": 180
+    },
+    {
+      "name": "Yukimura Seiichi",
+      "team": "Rikkai Dai",
+      "age": 15,
+      "famous_technique": "Yips Induction",
+      "height_cm": 175
+    }
+  ]
+}
